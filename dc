@@ -1,0 +1,47 @@
+[33mcommit d17b2837d4cb27865f6778063969c537d2baf0e5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v2.0.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rustam Khasanshin <Rustam Khasanshin>
+Date:   Wed Apr 8 17:13:27 2026 +0300
+
+    Added 777
+
+[33mcommit abcc1915100637d291134a02f7793e92bf5d5334[m[33m ([m[1;33mtag: v1.3.0[m[33m)[m
+Author: Rustam Khasanshin <Rustam Khasanshin>
+Date:   Wed Apr 8 17:08:41 2026 +0300
+
+    files4 5 6
+
+[33mcommit 99609c058c01aad239618d6d320cbc04cd851bca[m[33m ([m[1;33mtag: v1.2.0[m[33m, [m[1;33mtag: v1.0.1[m[33m)[m
+Author: Rustam Khasanshin <Rustam Khasanshin>
+Date:   Wed Apr 8 14:55:19 2026 +0300
+
+    Added file3_tag primer
+
+[33mcommit 2a124bad56b51285e0fc17a0d416bc2bcb59f94a[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: Rustam Khasanshin <Rustam Khasanshin>
+Date:   Wed Apr 8 14:39:11 2026 +0300
+
+    Added two new files
+
+[33mcommit 658068c08cfdda4ccd1ef8f4acb062865a9c8f5f[m
+Author: unknown <Administrator@APROTECH.LOCAL>
+Date:   Mon Mar 30 12:47:42 2026 +0300
+
+    Add for WINDOWS SERVER
+
+[33mcommit 29e25e7fd5ceb19884d63eb735b1740b26c484b5[m
+Author: Rustam Khasanshin <Rustam Khasanshin>
+Date:   Tue Mar 24 15:51:35 2026 +0300
+
+    Add file0.txt, file3.txt
+
+[33mcommit 58c97c7758d08c7ba7bfc59f2f9a43b7c9a95efe[m
+Author: Rustam Khasanshin <Rustam Khasanshin>
+Date:   Tue Mar 24 11:42:01 2026 +0300
+
+    My first Commit
+
+[33mcommit 4b05476c821e81d82f9f33074a10cb575252238c[m
+Author: Ru$tam <139616842+R2D2-HRV@users.noreply.github.com>
+Date:   Mon Mar 23 18:18:07 2026 +0300
+
+    Initial commit
